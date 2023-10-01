@@ -8,7 +8,7 @@ This is a Python script that uses a wordlist to repeatedly guess the login crede
 - Bash Shell
 
 ## Usage
-Edit ssh-crack.py with the wordlist path, hostname and ip of the newly created SSH server
+Edit ssh-crack.py with the wordlist path, hostname and IP of the newly created SSH server
 
 ## Disclaimer
 This is purely for educational purposes. Please use responsibly.
